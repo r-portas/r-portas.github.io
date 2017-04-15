@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Server Side Languages and Frameworks",
+    "skills": [
+      "NodeJS",
+      "Python",
+      "Java",
+      "PHP (Laravel)"
+    ]
+  },
+  {
+    "name": "Client Side Languages and Frameworks",
+    "skills": [
+      "Javascript",
+      "VueJS / (React)",
+      "JQuery",
+      "Bootstrap",
+      "Material Design Lite"
+    ]
+  },
+  {
+    "name": "Databases and Testing Frameworks",
+    "skills": [
+      "MySQL",
+      "MongoDB",
+      "Selenium",
+      "phpunit",
+      "ChaiJS"
+    ]
+  }
+]
