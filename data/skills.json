@@ -12,10 +12,10 @@
     "name": "Client Side Languages and Frameworks",
     "skills": [
       "Javascript",
-      "VueJS / (React)",
-      "JQuery",
-      "Bootstrap",
-      "Material Design Lite"
+      "Typescript",
+      "VueJS / React",
+      "Vuex",
+      "Webpack"
     ]
   },
   {
