@@ -1,19 +1,25 @@
 [
     {
-        "name": "CSSE1001 Tutor",
-        "subtitle": "<b>University of Queensland</b>, July 2015 to Present",
-        "description": "Teach introduction to Python to first year students. Roles include preparing class material and assisting students with coding problems. <br><br> I also perform code reviews on student code to identify errors and provide feedback to the students<br><br>Experience writing unit tests in Python for automated marking of assignments<br><br>Show students good practises, such as abstraction, code duplication, refactoring and unit testing",
-        "url": "https://uq.edu.au"
+        "name": "Engineering Intern / Masters Student",
+        "subtitle": "<b>Transmax</b>",
+        "description": "- Developed data driven Web based applications<br>- Worked with AWS and dev ops tooling including Cloud Formation and the Serverless Framework<br>- Experience with continuous integration and deployment (CI/CD) using Jenkins for web applications<br>- Worked on web applications written in Typescript, SCSS and React<br>- Experience developing user interfaces from high fidelity mocks<br>- Developed Single Page Applications (SPAs) leveraging using Redux and Bootstrap<br>- Experience writing developer documentation, best practice guides and style guides<br>",
+        "url": "https://transmax.com.au"
+    },
+    {
+        "name": "Software Architect",
+        "subtitle": "<b>MathMate</b>",
+        "description": "- Created high level designs for networking modules<br>- Developed best practices for structuring networking code<br>- Wrote project documentation to assist developers with using the module"
     },
     {
         "name": "Student Web Developer",
         "subtitle": "<b>eLIPSE</b>, November 2015 to Present",
-        "description": "Develop web based eLearning tools for use in courses taught at the University of Queensland <br><br> Part of the team nominated for the <a href=\"data/uq-professional-staff-nomination.pdf\">professional staff excellence team award</a> in the category of innovation and exceptional performance in 2016<br><br>Worked on a variety of projects ranging from 3D visualization tools to real time assessment systems which scale to 1200 simultaneous users<br><br>Worked with project management software, such as JIRA and Confluence, and agile development methods in small teams to create applications<br><br>Part of the team which implemented an advanced permission and authentication system that models the hierarchy for courses and academics at the University of Queensland",
+        "description": "Develop web based eLearning tools for use in courses taught at the University of Queensland <br><br> Part of the team nominated for the professional staff excellence team award in the category of innovation and exceptional performance in 2016<br><br>Worked on a variety of projects ranging from 3D visualization tools to real time assessment systems which scale to 1200 simultaneous users<br><br>Worked with project management software, such as JIRA and Confluence, and agile development methods in small teams to create applications<br><br>Part of the team which implemented an advanced permission and authentication system that models the hierarchy for courses and academics at the University of Queensland",
         "url": "http://elipse.uq.edu.au"
     },
     {
-        "name": "Unity Developer",
-        "subtitle": "<b>MathMate</b>",
-        "description": "Developing multiplayer networking code for a Unity game"
+        "name": "CSSE1001 Tutor",
+        "subtitle": "<b>University of Queensland</b>, July 2015 to Present",
+        "description": "Teach introduction to Python to first year students. Roles include preparing class material and assisting students with coding problems. <br><br> I also perform code reviews on student code to identify errors and provide feedback to the students<br><br>Experience writing unit tests in Python for automated marking of assignments<br><br>Show students good practises, such as abstraction, code duplication, refactoring and unit testing",
+        "url": "https://uq.edu.au"
     }
 ]

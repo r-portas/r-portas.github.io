@@ -13,8 +13,8 @@
     "skills": [
       "Javascript",
       "Typescript",
-      "VueJS / React",
-      "Vuex",
+      "VueJS / Vuex",
+      "React / Redux",
       "Webpack"
     ]
   },
@@ -24,8 +24,7 @@
       "MySQL",
       "MongoDB",
       "Selenium",
-      "phpunit",
-      "ChaiJS"
+      "Jest"
     ]
   }
 ]
